@@ -6,12 +6,13 @@
 .project
 .settings
 build
-gradle
-gradlew
-gradlew.bat
+out
 target
 bin/
 *.iml
 *.ipr
 *.iws
-src/test/resources/.config.properties
+.config.properties
+.checkstyle
+.gradletasknamecache
+docs
